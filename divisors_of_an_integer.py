@@ -2,8 +2,6 @@
 If you need to calculate divisors of an integer numbers you can use my code.
 """
 
-
-
 A = int(input("Input an integer number==> "))
 list=[]
 for i in range(1,A+1):
